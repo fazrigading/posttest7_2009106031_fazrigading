@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790675033593",
+    "project_id": "posttest-7-gading",
+    "storage_bucket": "posttest-7-gading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790675033593:android:ed545609bc2f7b03a8c128",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_2009106031_fazrigading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790675033593-qnevoar83bll5k3aq97376m5t95d67i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdVIifeMdyMxQEuV3RK0HVkncjFndVpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790675033593-qnevoar83bll5k3aq97376m5t95d67i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
